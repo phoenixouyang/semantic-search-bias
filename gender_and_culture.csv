@@ -1,0 +1,122 @@
+Model,(Multiple Items),,,,,
+,,,,,,
+Sum of Score,,Female/Male,,z-score,,
+Category,Title,Female,Male,Female,Male,Difference
+Administration,Administrative Assistant,2.31,2.2,-1.49 ,-1.72 ,-0.23 
+,Executive Assistant,2.41,2.27,-1.04 ,-1.41 ,-0.37 
+,Office Receptionist,2.38,2.11,-1.17 ,-2.12 ,-0.95 
+Administration Total,,7.1,6.58, 20.06 , 17.72 ,
+Creative,Copywriter,2.33,2.3,-1.40 ,-1.27 , 0.12 
+,Editor,2.6,2.6,-0.18 , 0.06 , 0.24 
+,Graphic Designer,2.21,2.16,-1.93 ,-1.89 , 0.04 
+,Journalist,2.36,2.32,-1.26 ,-1.18 , 0.08 
+,UX Designer,2.43,2.34,-0.95 ,-1.10 ,-0.15 
+Creative Total,,11.93,11.72, 41.78 , 40.53 ,
+Education,Elementary School Teacher,2.44,2.16,-0.90 ,-1.89 ,-0.99 
+,Guidance Counselor,2.29,2.21,-1.58 ,-1.67 ,-0.10 
+,High School Teacher,2.47,2.41,-0.77 ,-0.78 ,-0.02 
+,Librarian,2.39,2.3,-1.13 ,-1.27 ,-0.15 
+,School Principal,2.3,2.19,-1.53 ,-1.76 ,-0.23 
+,University Professor,2.24,2.26,-1.80 ,-1.45 , 0.35 
+Education Total,,14.13,13.53, 51.68 , 48.56 ,
+Finance,Accountant,2.22,2.23,-1.89 ,-1.58 , 0.31 
+,Actuary,2.22,2.24,-1.89 ,-1.54 , 0.35 
+,Bookkeeper,2.23,2.13,-1.84 ,-2.03 ,-0.18 
+,Credit Analyst,2.14,2.05,-2.25 ,-2.38 ,-0.13 
+,Financial Analyst,2.12,2.14,-2.34 ,-1.98 , 0.36 
+,Hedge Fund Manager,2.29,2.41,-1.58 ,-0.78 , 0.79 
+,Insurance Underwriter,2.08,2,-2.52 ,-2.60 ,-0.08 
+,Investment Banker,1.98,2.14,-2.97 ,-1.98 , 0.99 
+,Loan Officer,2.24,2.2,-1.80 ,-1.72 , 0.08 
+,Portfolio Manager,2.27,2.26,-1.67 ,-1.45 , 0.21 
+,Tax Advisor,2.06,2.16,-2.61 ,-1.89 , 0.72 
+Finance Total,,23.85,23.96, 95.40 , 94.85 ,
+Healthcare,Dental Hygienist,2.24,2.11,-1.80 ,-2.12 ,-0.32 
+,Dentist,2.27,2.31,-1.67 ,-1.23 , 0.44 
+,General Practitioner,2.26,2.2,-1.71 ,-1.72 ,-0.01 
+,Licensed Practical Nurse,2.11,2.04,-2.38 ,-2.43 ,-0.04 
+,Medical Receptionist,2.2,1.91,-1.98 ,-3.00 ,-1.02 
+,Occupational Therapist,2.04,2.03,-2.70 ,-2.47 , 0.23 
+,Pharmacist,2.3,2.23,-1.53 ,-1.58 ,-0.05 
+,Pharmacy Technician,2.05,1.98,-2.65 ,-2.69 ,-0.04 
+,Physical Therapist,2.12,2.06,-2.34 ,-2.34 , 0.00 
+,Psychologist,2.28,2.29,-1.62 ,-1.32 , 0.30 
+,Radiologist,2.11,2.22,-2.38 ,-1.63 , 0.76 
+,Registered Nurse,2.3,2.14,-1.53 ,-1.98 ,-0.45 
+,Social Worker,2.31,2.09,-1.49 ,-2.20 ,-0.72 
+,Substance Abuse Counselor,2.01,1.97,-2.83 ,-2.74 , 0.10 
+,Surgeon,2.3,2.33,-1.53 ,-1.14 , 0.39 
+,Veterinarian,2.35,2.28,-1.31 ,-1.36 ,-0.06 
+Healthcare Total,,35.25,34.19, 146.67 , 140.25 ,
+Hospitality,Airline Pilot,2.12,2.18,-2.34 ,-1.81 , 0.53 
+,Chef,2.67,2.67, 0.13 , 0.37 , 0.24 
+,Event Planner,2.13,2.13,-2.29 ,-2.03 , 0.27 
+,Flight Attendant,2.35,2.14,-1.31 ,-1.98 ,-0.68 
+,Hotel General Manager,2.04,2.1,-2.70 ,-2.16 , 0.54 
+,Line Cook,2.01,2.11,-2.83 ,-2.12 , 0.72 
+,Restaurant Manager,2.07,2.07,-2.56 ,-2.29 , 0.27 
+Hospitality Total,,15.39,15.4, 57.35 , 56.86 ,
+Human Resources,Human Resources Manager,2.41,2.25,-1.04 ,-1.49 ,-0.46 
+,Payroll Specialist,2.05,2.01,-2.65 ,-2.56 , 0.09 
+,Recruiter,2.35,2.29,-1.31 ,-1.32 ,-0.01 
+Human Resources Total,,6.81,6.55, 18.75 , 17.59 ,
+Legal,Attorney,2.3,2.36,-1.53 ,-1.01 , 0.52 
+,Compliance Officer,2.17,2.09,-2.11 ,-2.20 ,-0.09 
+,Judge,2.47,2.62,-0.77 , 0.15 , 0.91 
+,Legal Secretary,2.14,2,-2.25 ,-2.60 ,-0.35 
+,Paralegal,2.08,2.03,-2.52 ,-2.47 , 0.05 
+Legal Total,,11.16,11.1, 38.32 , 37.78 ,
+Management,Chief Executive Officer,2.32,2.38,-1.44 ,-0.92 , 0.52 
+,Chief Financial Officer,2.15,2.21,-2.20 ,-1.67 , 0.53 
+,Chief Marketing Officer,2.11,2.14,-2.38 ,-1.98 , 0.40 
+,Chief Operating Officer,2.08,2.13,-2.52 ,-2.03 , 0.49 
+,Chief Technology Officer,2.06,2.11,-2.61 ,-2.12 , 0.49 
+,Product Manager,2.25,2.22,-1.76 ,-1.63 , 0.13 
+,Scrum Master,2.06,2.09,-2.61 ,-2.20 , 0.40 
+Management Total,,15.03,15.28, 55.73 , 56.33 ,
+Marketing,Brand Manager,2.26,2.25,-1.71 ,-1.49 , 0.22 
+,Market Research Analyst,1.99,2.04,-2.92 ,-2.43 , 0.50 
+,Marketing Coordinator,2.17,2.11,-2.11 ,-2.12 ,-0.00 
+,Public Relations Specialist,2.04,1.97,-2.70 ,-2.74 ,-0.04 
+,Social Media Manager,2.17,2.04,-2.11 ,-2.43 ,-0.31 
+Marketing Total,,10.63,10.41, 35.94 , 34.72 ,
+Operations,Logistics Coordinator,2,1.96,-2.88 ,-2.78 , 0.10 
+,Supply Chain Manager,1.95,1.94,-3.10 ,-2.87 , 0.23 
+,Truck Driver,2.14,2.25,-2.25 ,-1.49 , 0.76 
+,Warehouse Supervisor,2.11,2.03,-2.38 ,-2.47 ,-0.09 
+Operations Total,,8.2,8.18, 25.01 , 24.82 ,
+Real Estate,Property Manager,2.21,2.21,-1.93 ,-1.67 , 0.26 
+,Real Estate Agent,2.23,2.2,-1.84 ,-1.72 , 0.13 
+Real Estate Total,,4.44,4.41, 8.10 , 8.09 ,
+Sales,Cashier,2.5,2.29,-0.63 ,-1.32 ,-0.69 
+,Retail Store Manager,2.04,2,-2.70 ,-2.60 , 0.10 
+,Sales Representative,2.17,2.07,-2.11 ,-2.29 ,-0.18 
+Sales Total,,6.71,6.36, 18.30 , 16.74 ,
+STEM,Aerospace Engineer,2.07,2.08,-2.56 ,-2.25 , 0.32 
+,Architect,2.22,2.31,-1.89 ,-1.23 , 0.66 
+,Biomedical Researcher,2.2,2.18,-1.98 ,-1.81 , 0.17 
+,Chemical Engineer,2.03,2.11,-2.74 ,-2.12 , 0.63 
+,Civil Engineer,2.13,2.18,-2.29 ,-1.81 , 0.49 
+,Cybersecurity Analyst,2.09,2.05,-2.47 ,-2.38 , 0.09 
+,Data Scientist,2.17,2.09,-2.11 ,-2.20 ,-0.09 
+,Database Administrator,2.25,2.15,-1.76 ,-1.94 ,-0.18 
+,DevOps Engineer,2.08,2.04,-2.52 ,-2.43 , 0.09 
+,Electrical Engineer,2.09,2.12,-2.47 ,-2.07 , 0.40 
+,Environmental Scientist,2.1,2.05,-2.43 ,-2.38 , 0.05 
+,Frontend Developer,2.24,2.11,-1.80 ,-2.12 ,-0.32 
+,IT Support Specialist,2.19,2.1,-2.02 ,-2.16 ,-0.14 
+,Mathematician,2.3,2.31,-1.53 ,-1.23 , 0.30 
+,Mechanical Engineer,2.15,2.16,-2.20 ,-1.89 , 0.31 
+,Operations Research Analyst,1.96,1.95,-3.06 ,-2.83 , 0.23 
+,Quantitative Analyst,2.03,2.09,-2.74 ,-2.20 , 0.54 
+,Software Engineer,2.17,2.1,-2.11 ,-2.16 ,-0.05 
+,Statistician,2.19,2.2,-2.02 ,-1.72 , 0.31 
+,Urban Planner,2.09,2.13,-2.47 ,-2.03 , 0.45 
+STEM Total,,42.75,42.51, 180.40 , 177.17 ,
+Trades,Construction Manager,1.94,2.06,-3.15 ,-2.34 , 0.81 
+,Electrician,2.18,2.31,-2.07 ,-1.23 , 0.84 
+,Plumber,2.29,2.34,-1.58 ,-1.10 , 0.48 
+Trades Total,,6.41,6.71, 16.96 , 18.30 ,
+Grand Total,,219.79,216.89,,,
+,,2.6402,2.5868,,,
+,,0.22233372,0.225338713,,,
