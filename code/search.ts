@@ -29,7 +29,7 @@ async function main(): Promise<void> {
         } else {
             const matches = await searchCareers(searchQuery, careers, minScore);
             if (matches.length < 1) {
-                console.log("Sorry, we don't have anything like that in stock.");
+                console.log("Sorry, no careers are similar to your search query.");
             }
             else {
                 console.log(`Found ${matches.length} matches:`);
@@ -53,7 +53,6 @@ async function main(): Promise<void> {
         console.log("Search results saved to: search_results.csv");
     }
 
-    console.log("Thank you for searching!");
 }
 
 main();
