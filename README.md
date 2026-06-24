@@ -4,7 +4,7 @@ Research paper and experiment code exploring how AI recruitment tools can perpet
 
 ## Paper
 
-**AI in Recruitment: Measuring Bias and Designing for Transparency**
+**AI in Recruitment: Measuring Gender Bias in Job Title Embeddings**<br />
 Phoenix Ouyang · Seneca Polytechnic · April 2026
 
 📄 [Read the full paper (PDF)](./AI%20In%20Recruitment.pdf)
